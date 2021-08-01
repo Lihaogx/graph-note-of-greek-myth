@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#重要事件",
+      "color": {
+        "a": 1,
+        "rgb": 7528942
+      }
+    },
+    {
+      "query": "tag:#神/仙子",
+      "color": {
+        "a": 1,
+        "rgb": 11630079
+      }
+    },
+    {
+      "query": "tag:#怪物",
+      "color": {
+        "a": 1,
+        "rgb": 6515673
+      }
+    },
+    {
+      "query": "tag:#集合",
+      "color": {
+        "a": 1,
+        "rgb": 15844957
+      }
+    },
+    {
+      "query": "tag:#重要地点",
+      "color": {
+        "a": 1,
+        "rgb": 2000371
+      }
+    },
+    {
+      "query": "tag:#人类",
+      "color": {
+        "a": 1,
+        "rgb": 14839728
+      }
+    },
+    {
+      "query": "tag:#巨人",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 0.73314606741573,
+  "lineSizeMultiplier": 0.760674157303371,
+  "collapse-forces": false,
+  "centerStrength": 0.494117647058824,
+  "repelStrength": 9.88235294117647,
+  "linkStrength": 0,
+  "linkDistance": 206,
+  "scale": 0.28102455422004496,
+  "close": false
+}

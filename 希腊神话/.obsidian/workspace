@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "59078c080f89c0c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ac06f813b4dce2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Readme.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d43c48b0b672a6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ad92a3fe09c7da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50d94359dbc3a89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d827a55327c35b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e5dd2e9a4db7e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "90aceebbe424aead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa037ccad97e9768",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "28ac06f813b4dce2",
+  "lastOpenFiles": [
+    "Readme.md",
+    "未命名.md",
+    "人类/忒修斯.md",
+    "人类/珀里托俄斯.md",
+    "人类/阿德刺斯托斯.md",
+    "神/厄洛斯.md",
+    "神/阿佛洛狄忒.md",
+    "人类/戈耳狄俄斯.md",
+    "人类/珀琉斯.md",
+    "人类/埃阿科斯.md"
+  ]
+}

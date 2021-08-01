@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "59078c080f89c0c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ac06f813b4dce2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "神/普路托斯.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8302f41df39f4518",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b37ce0597c43c86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9240a5e2fc7a724",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2d93ca44031e8c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "普路",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "5432b1a719fb59ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "386f8f51975b8201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e845cd7ecc06f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "神/普路托斯.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28c12c4a31ba365e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "28ac06f813b4dce2",
+  "lastOpenFiles": [
+    "神/普路托斯.md",
+    "神/卡戎.md",
+    "人类/西绪福斯.md",
+    "事件/俄瑞斯忒斯弑母.md",
+    "人类/安提戈涅.md",
+    "神/阿波罗.md",
+    "人类/菲罗克忒忒斯.md",
+    "事件/特洛亚战争.md",
+    "人类/勒达.md",
+    "事件/赫剌克勒斯的十二件功绩.md"
+  ]
+}
