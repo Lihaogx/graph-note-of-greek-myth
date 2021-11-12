@@ -1,28 +1,25 @@
 {
   "main": {
-    "id": "59078c080f89c0c9",
+    "id": "06414851ed562669",
     "type": "split",
     "children": [
       {
-        "id": "b625fbbb6b48a4a1",
+        "id": "4a38b7143dc145ee",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "人类/阿多尼斯.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "844f74ca0a6870bd",
+    "id": "78a76fc2ca15e4bc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "65597a90b5939f69",
+        "id": "d9a238857aebc1ad",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +27,7 @@
         }
       },
       {
-        "id": "9222d0496d843419",
+        "id": "6cee9eb2c5dfeb43",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -48,16 +45,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "11270f7ffd3faacd",
+    "id": "b09a59209ae6de5b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5f10da315d50c8af",
+        "id": "e007dd1403a0436b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "人类/阿多尼斯.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -71,17 +67,6 @@
     ],
     "currentTab": 0
   },
-  "active": "b625fbbb6b48a4a1",
-  "lastOpenFiles": [
-    "人类/阿多尼斯.md",
-    "地点/阿耳戈斯地区.md",
-    "人类/阿伽门农.md",
-    "人类/坦塔罗斯.md",
-    "人类/尼俄柏（坦塔罗斯之女）.md",
-    "picture/De val van-Tantalus.jpg",
-    "事件/俄瑞斯忒斯弑母.md",
-    "神/赫耳墨斯.md",
-    "人类/阿尔忒墨涅斯.md",
-    "人类/忒拉蒙.md"
-  ]
+  "active": "4a38b7143dc145ee",
+  "lastOpenFiles": []
 }
