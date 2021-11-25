@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b625fbbb6b48a4a1",
+        "id": "b6edfb2643eb6b81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "人类/阿多尼斯.md",
-            "mode": "preview"
+            "file": "怪物/喀迈拉.md",
+            "mode": "source"
           }
         }
       }
@@ -18,70 +18,86 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "844f74ca0a6870bd",
-    "type": "mobile-drawer",
+    "id": "3d874492a23776b9",
+    "type": "split",
     "children": [
       {
-        "id": "65597a90b5939f69",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "9222d0496d843419",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "52f8f3f1ab46669d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ecc9f85ddded67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75091e7c1f7eb5bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "喀迈拉",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "11270f7ffd3faacd",
-    "type": "mobile-drawer",
+    "id": "95a25539fbff2021",
+    "type": "split",
     "children": [
       {
-        "id": "5f10da315d50c8af",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "人类/阿多尼斯.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "3bd9d906a11c586b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95447a9864b15ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "怪物/喀迈拉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b625fbbb6b48a4a1",
+  "active": "b6edfb2643eb6b81",
   "lastOpenFiles": [
-    "人类/阿多尼斯.md",
-    "地点/阿耳戈斯地区.md",
-    "人类/阿伽门农.md",
-    "人类/坦塔罗斯.md",
-    "人类/尼俄柏（坦塔罗斯之女）.md",
-    "picture/De val van-Tantalus.jpg",
-    "事件/俄瑞斯忒斯弑母.md",
-    "神/赫耳墨斯.md",
-    "人类/阿尔忒墨涅斯.md",
-    "人类/忒拉蒙.md"
+    "怪物/喀迈拉.md",
+    "事件/喀迈拉之死.md",
+    "人类/柏勒洛丰.md",
+    "人类/塞墨勒.md",
+    "人类/阿高厄.md",
+    "神/厄科.md",
+    "人类/那耳喀索斯.md",
+    "人类/阿剌克涅.md",
+    "人类/赫耳玛佛洛狄托斯.md",
+    "神/厄俄斯.md"
   ]
 }
