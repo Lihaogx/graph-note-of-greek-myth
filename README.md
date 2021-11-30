@@ -1,5 +1,5 @@
 # graph note of greek myth
-- 笔记作者为豆瓣@咏而归，ID号yongerG,B站账号@咏而归L，欢迎交流
+- 笔记作者为豆瓣@咏而归，ID号yongerG,B站账号@咏而归L，Youtube频道@咏而归，欢迎交流
 - 该笔记供学习和交流使用，详见LICENSE
 - 关于该笔记更详细的描述请见 https://www.douban.com/note/807432536/ （豆瓣还在审核......
 - 所有笔记均为个人处于兴趣整理的读书笔记，书单请见 https://www.douban.com/doulist/139144941/
